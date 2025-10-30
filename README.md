@@ -9,13 +9,3 @@
 ## 贡献
 
 欢迎您参与项目的优化和改进。如果你想为本项目做出贡献，或者有任何问题和建议，请在 Issues 中提出。
-
-## 版权和许可
-
-本项目采用 [MIT License](https://choosealicense.com/licenses/mit/).
-
-## 致谢
-
-感谢哥飞提出的建议和 ROI 计算逻辑，哥飞的社群主要面向技术开发者、产品经理、设计师等人群，大家一起讨论独立开发、出海产品、流量获取、流量变现等话题，欢迎关注：
-
-<img src="/assets/images/gefei.png" width="300" alt="gefei wechat">
